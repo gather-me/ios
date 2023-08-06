@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C6AFFDD2-F264-4EE2-BBE5-BB1FE700B334"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE003AFA-5C6B-4738-818B-745AD450C112"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/view/EventCreationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "sendRequest(currentUserId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11263CBF-B8D3-4548-8B72-689596152E8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/view/EventCreationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "sendRequest(currentUserId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20C54DFD-0359-4A35-B5E5-D54384F82B3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/view/EventCreationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "sendRequest(currentUserId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63EB7778-A019-4340-9F64-B03A23B533CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "fetchUserById(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "609D4343-C609-41A3-8822-47633975CF65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "fetchFollowings(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7493B2D-C817-453D-A481-FD8A5EAAB1CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "fetchFollowingCount(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44A59027-6C40-499C-9AC4-12018ECCF55C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "239"
+            endingLineNumber = "239"
+            landmarkName = "fetchFollowers(userId:currentUserId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "548E9770-83E9-4E9D-B604-480E0AD3FBB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "fetchFollowerCount(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F593598-1AF8-40C8-BCC0-2F65DAE26CCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "fetchFollowings(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABD3C5D5-61B7-4B03-AF0F-0761F3F4E904"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "fetchFollowingCount(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC9DE3CC-CFE4-4930-94AD-532DE4E4B8E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "fetchFollowers(userId:currentUserId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE563C58-8851-4915-B9D7-74B7BE318CB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "268"
+            endingLineNumber = "268"
+            landmarkName = "fetchFollowerCount(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA004BDD-6F64-407D-9AE0-4BE44F59C692"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getUserById(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE84FD62-4BC0-4D91-B9CD-52F8899DB01B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/EventClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "getEventParticipants(eventType:eventId:enrolled:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE84FD62-4BC0-4D91-B9CD-52F8899DB01B - 66f1114f24b86b40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.getEventParticipants(eventType: gather.EventType, eventId: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;gather.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "BE84FD62-4BC0-4D91-B9CD-52F8899DB01B - 66f1114f24b86b40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.getEventParticipants(eventType: gather.EventType, eventId: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;gather.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A23CE38F-A997-425E-BA46-E5998C81BB81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/EventClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "255"
+            endingLineNumber = "255"
+            landmarkName = "getEventParticipants(eventType:eventId:enrolled:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A23CE38F-A997-425E-BA46-E5998C81BB81 - 66f1114f24b86b61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.getEventParticipants(eventType: gather.EventType, eventId: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;gather.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "A23CE38F-A997-425E-BA46-E5998C81BB81 - 66f1114f24b86b61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.getEventParticipants(eventType: gather.EventType, eventId: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;gather.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "1412">
+               </Location>
+               <Location
+                  uuid = "A23CE38F-A997-425E-BA46-E5998C81BB81 - 66f1114f24b86b61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.getEventParticipants(eventType: gather.EventType, eventId: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;gather.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  uuid = "A23CE38F-A997-425E-BA46-E5998C81BB81 - 66f1114f24b86b61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.getEventParticipants(eventType: gather.EventType, eventId: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;gather.UserModel&gt;, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "1324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "387C5A2D-2DC5-4659-983D-18E3D246FF05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/EventClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "getEventParticipants(eventType:eventId:enrolled:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7887148D-B57C-4BDD-8CFA-3A321C4B4BA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/EventClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "305"
+            endingLineNumber = "305"
+            landmarkName = "enroll(eventType:eventId:userId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7887148D-B57C-4BDD-8CFA-3A321C4B4BA5 - 63d37f3eb0116ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.enroll(eventType: gather.EventType, eventId: Swift.Int, userId: Swift.Int) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "7887148D-B57C-4BDD-8CFA-3A321C4B4BA5 - 63d37f3eb0116ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.enroll(eventType: gather.EventType, eventId: Swift.Int, userId: Swift.Int) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+               <Location
+                  uuid = "7887148D-B57C-4BDD-8CFA-3A321C4B4BA5 - 63d37f3eb0129ca3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.enroll(eventType: gather.EventType, eventId: Swift.Int, userId: Swift.Int) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "7887148D-B57C-4BDD-8CFA-3A321C4B4BA5 - 63d37f3eb0129ca3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.enroll(eventType: gather.EventType, eventId: Swift.Int, userId: Swift.Int) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+               <Location
+                  uuid = "7887148D-B57C-4BDD-8CFA-3A321C4B4BA5 - 63d37f3eb0129a50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.enroll(eventType: gather.EventType, eventId: Swift.Int, userId: Swift.Int) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "7887148D-B57C-4BDD-8CFA-3A321C4B4BA5 - 63d37f3eb0129a50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.enroll(eventType: gather.EventType, eventId: Swift.Int, userId: Swift.Int) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA31040D-7C80-4968-99E8-74DEFC16CEA3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/EventClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
+            landmarkName = "enroll(eventType:eventId:userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51A888F2-EC5C-4DE1-ADA9-BEA180FB40E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/UserClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "follow(followingUserId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51A888F2-EC5C-4DE1-ADA9-BEA180FB40E2 - ef865d263b26fdec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.UserClient.follow(userId: Swift.Int, followingUserId: Swift.Int) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/UserClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "51A888F2-EC5C-4DE1-ADA9-BEA180FB40E2 - ef865d263b26fdec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.UserClient.follow(userId: Swift.Int, followingUserId: Swift.Int) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/UserClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1260">
+               </Location>
+               <Location
+                  uuid = "51A888F2-EC5C-4DE1-ADA9-BEA180FB40E2 - 8c49d4a70bddff72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.UserClient.follow(userId: Swift.Int, followingUserId: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Bool, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/UserClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1284">
+               </Location>
+               <Location
+                  uuid = "51A888F2-EC5C-4DE1-ADA9-BEA180FB40E2 - 8c49d4a70bddff72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.UserClient.follow(userId: Swift.Int, followingUserId: Swift.Int) -&gt; Combine.AnyPublisher&lt;Swift.Bool, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/UserClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AE8C19B-7BCD-45BD-8B2E-7482D9DB76A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gather/controller/EventClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "createEvent(userId:body:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0AE8C19B-7BCD-45BD-8B2E-7482D9DB76A1 - 7cdaca1bc7d40281"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.createEvent(userId: Swift.Int, body: gather.EventCreationModel) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "0AE8C19B-7BCD-45BD-8B2E-7482D9DB76A1 - 7cdaca1bc7d40281"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gather.EventClient.createEvent(userId: Swift.Int, body: gather.EventCreationModel) -&gt; Combine.AnyPublisher&lt;__C.NSURLResponse, Swift.Error&gt;"
+                  moduleName = "gather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgur/gather/ios/gather/gather/controller/EventClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
